@@ -1,2 +1,2 @@
 # go-sample
-Sample Go App for Testing GithubApp..ss
+Sample Go App for Testing GithubApp.
